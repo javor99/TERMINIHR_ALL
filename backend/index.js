@@ -27,8 +27,8 @@ const currentDate = require("current-date");
       
         secure: true,
          auth: {
-        user: 'support@terminihr.com',
-        pass: "BXy5rFPd2sZw"
+        user: 'process.env.SMTPUSER',
+        pass: "process.env.SMTPPASS"
     }
  }));
 

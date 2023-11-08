@@ -6,8 +6,9 @@ Sports enthusiasts, unite! With our app, you can easily create sports events or 
 
 ![terminihr-logo-square(1)](https://github.com/javor99/TERMINIHR_ALL/assets/96128565/a9f259ae-d2c3-4e33-99cf-46a4d319b4da)
 
-![2023-11-01 16-46-12 High Res Screenshot](https://github.com/javor99/TERMINIHR_ALL/assets/96128565/ed7e5931-b7aa-489f-8e62-99c4e46132a5)
-![2023-11-01 16-46-19 High Res Screenshot](https://github.com/javor99/TERMINIHR_ALL/assets/96128565/7fcfb933-d97f-4b8b-bdf7-10f5a10ccba3)
-![2023-11-01 16-46-57 High Res Screenshot](https://github.com/javor99/TERMINIHR_ALL/assets/96128565/37ec6f11-753c-40f4-b4fe-47750b2e79e1)
-![2023-11-01 16-46-15 High Res Screenshot](https://github.com/javor99/TERMINIHR_ALL/assets/96128565/6fb6b6e5-f91e-4b62-8f41-f5067d485bc9)
+![2023-11-01 16-46-12 High Res Screenshot](https://github.com/javor99/TERMINIHR_ALL/assets/96128565/1b840c54-d287-4734-adbc-79e62b47db26)
+![2023-11-01 16-46-19 High Res Screenshot](https://github.com/javor99/TERMINIHR_ALL/assets/96128565/4a874ae1-5f46-42e1-8fe6-2c491dc9045d)
+![2023-11-01 16-46-15 High Res Screenshot](https://github.com/javor99/TERMINIHR_ALL/assets/96128565/fe5ca041-079e-4c6d-993b-45d43a62fc40)
+![2023-11-01 16-46-57 High Res Screenshot](https://github.com/javor99/TERMINIHR_ALL/assets/96128565/62f025b5-c738-4064-aeaa-1d75e92ddf74)
+
 
